@@ -1,4 +1,4 @@
-# Learning Musical Representations for Music Performance Question Answering
+# Temporal Multimodal Sequences for Audio-Video-Language Modelling
 
 ## Project Description
 
