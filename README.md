@@ -4,7 +4,7 @@ This repository is the official implementation of the paper **Efficient Temporal
 
 ## Project Overview
 
-This code repository includes implementations of the Temporal Working Memory (TMW) mechanism algorithm applied to nine different state-of-the-art models. The steps to run the code are as follows:
+This code repository includes implementations of the TWM mechanism algorithm applied to nine different state-of-the-art models. The steps to run the code are as follows:
 
 1. **Download the repository**: Clone this repository to your local environment.
 2. **Data Preprocessing**: Prepare data following the preprocessing steps in each original model repository.
