@@ -1,6 +1,6 @@
-# Working Memory Retains Essential Temporal Multimodal Sequences
+# Efficient Temporal Multimodal Sequences for Vision, Language, and Audio
 
-This repository is the official implementation of the paper **Working Memory Retains Essential Temporal Multimodal Sequences** (Submission #5).
+This repository is the official implementation of the paper **Efficient Temporal Multimodal Sequences for Vision, Language, and Audio**.
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ This code repository includes implementations of the Temporal Working Memory (TM
 
 1. **Download the repository**: Clone this repository to your local environment.
 2. **Data Preprocessing**: Prepare data following the preprocessing steps in each original model repository.
-3. **Training Temporal Working Memory (TMW)**: For each model, adjust the number of training epochs and relevant model-specific hyperparameters in the `main_alvs.py` file within each model’s directory. Follow the recommendations in each model's original paper for parameter settings, and then train TMW.
+3. **Training TWM**: For each model, adjust the number of training epochs and relevant model-specific hyperparameters in the `main_alvs.py` file within each model’s directory. Follow the recommendations in each model's original paper for parameter settings, and then train TMW.
 4. **Inference**: Set `epochs = 0` in each model's `main_alvs.py` file, and run to obtain TMW searching results.
 
 ## Models and References
